@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: red;
+}
+#gora{
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   height: 30%;
+   width: 100%;
+   color: white;
+}
